@@ -37,4 +37,3 @@ At time +2.00737s client received 1024 bytes from 10.1.1.2 port 9
 * RTT (ida y vuelta): **~7.37 ms**
 
 
-corrigeme esto, por que en este caso se está midiendo es usando netstat -c 10 >traza.txt
